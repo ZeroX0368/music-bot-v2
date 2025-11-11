@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🎵 AeroX Music
+# 🎵 Bots Music
 
-![AeroX Music](https://img.shields.io/badge/AeroX-Music%20Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Bots Music](https://img.shields.io/badge/AeroX-Music%20Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue?style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-14+-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Discord.js](https://img.shields.io/badge/Discord.js-v14-5865F2?style=for-the-badge&logo=discord&logoColor=white)
@@ -11,7 +11,7 @@
 
 A powerful Discord music bot with LavaLink integration, featuring support for YouTube and Spotify, playlists, favorites, and much more!
 
-[**Discord Server**](https://discord.gg/8wfT8SfB5Z) • [**Report Bug**](https://github.com/AeroX-Development/AeroX-Music/issues) • [**Request Feature**](https://github.com/AeroX-Development/AeroX-Music/issues)
+[**Discord Server**](https://discord.gg/Zg2XkS5hq9) • [**Report Bug**](https://github.com/ZeroX0368/music-bot-v2/issues) • [**Request Feature**](https://github.com/ZeroX0368/music-bot-v2/issues)
 
 </div>
 
@@ -27,7 +27,7 @@ A powerful Discord music bot with LavaLink integration, featuring support for Yo
 - ❌ **DO NOT** remove or modify the credits and attribution to AeroX Development and the developer
 - ✅ You may use this bot for personal or private servers
 - ✅ You may modify the code for your own use while keeping credits intact
-- 📧 For permission to showcase or distribute publicly, contact us via our [Discord Server](https://discord.gg/8wfT8SfB5Z)
+- 📧 For permission to showcase or distribute publicly, contact us via our [Discord Server](https://discord.gg/Zg2XkS5hq9)
 
 **Removing credits or unauthorized public distribution is strictly prohibited and disrespectful to the developers who made this project possible.**
 
@@ -115,7 +115,7 @@ A powerful Discord music bot with LavaLink integration, featuring support for Yo
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/AeroX-Development/AeroX-Music.git
+   git clone https://github.com/ZeroX0368/music-bot-v2.git
    cd AeroX-Music
    ```
 
@@ -255,7 +255,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ### Development Team
 
-**AeroX Music** is developed and maintained by **[AeroX Development](https://discord.gg/8wfT8SfB5Z)**
+**Bots Music** is developed and maintained by **[Bucu Development](https://discord.gg/Zg2XkS5hq9)**
 
 #### Lead Developer
 - **Aegis** (itsfizys)
@@ -278,7 +278,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 Need help? Join our community!
 
-- **Discord Server**: [https://discord.gg/8wfT8SfB5Z](https://discord.gg/8wfT8SfB5Z)
+- **Discord Server**: [https://discord.gg/Zg2XkS5hq9](https://discord.gg/Zg2XkS5hq9)
 - **Developer Contact**: Discord @ `itsfizys`
 - **Portfolio**: [https://itsfiizys.com](https://itsfiizys.com)
 
@@ -298,7 +298,7 @@ This bot is for educational and entertainment purposes. Please respect copyright
 
 <div align="center">
 
-**Made with ❤️ by [AeroX Development](https://discord.gg/8wfT8SfB5Z)**
+**Made with ❤️ by [Bucu Development](https://discord.gg/Zg2XkS5hq9)**
 
 [![Discord](https://img.shields.io/badge/Join-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/8wfT8SfB5Z)
 [![Portfolio](https://img.shields.io/badge/Visit-Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://itsfiizys.com)
