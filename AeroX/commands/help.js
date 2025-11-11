@@ -3,7 +3,7 @@ const { SlashCommandBuilder, ContainerBuilder, TextDisplayBuilder, SeparatorBuil
 const categories = {
     playback: {
         name: 'Music PlayBack',
-        emoji: '<:white_musicnote:1430654046657843266>',
+        emoji: '⚫',
         commands: [
             { name: 'play', description: 'Play a song or add it to the queue' },
             { name: 'pause', description: 'Pause the currently playing song' },
@@ -19,7 +19,7 @@ const categories = {
     },
     queue: {
         name: 'Queue Management',
-        emoji: '<:queue:1430772894337728603>',
+        emoji: '⚫',
         commands: [
             { name: 'queue', description: 'Show the current song queue' },
             { name: 'shuffle', description: 'Shuffle the queue order' },
@@ -30,7 +30,7 @@ const categories = {
     },
     favorites: {
         name: 'Favourites',
-        emoji: '<:favourite:1430652904183693383>',
+        emoji: '⚫',
         commands: [
             { name: 'favoriteadd', description: 'Add a song to your favorites' },
             { name: 'favoritelist', description: 'Show your favorite songs' },
@@ -40,7 +40,7 @@ const categories = {
     },
     playlists: {
         name: 'Playlists',
-        emoji: '<:white_playlist:1430774609095037139>',
+        emoji: '⚫',
         commands: [
             { name: 'playlistcreate', description: 'Create a new empty playlist' },
             { name: 'playlistsave', description: 'Save the current queue as a playlist' },
@@ -58,7 +58,7 @@ const categories = {
     },
     settings: {
         name: 'Settings & Filters',
-        emoji: '<:filter:1430653471366840683>',
+        emoji: '⚫',
         commands: [
             { name: 'filter', description: 'Apply audio filter (equalizer)' },
             { name: 'loop', description: 'Set repeat mode' },
@@ -69,7 +69,7 @@ const categories = {
     },
     info: {
         name: 'Information',
-        emoji: '<:white_info:1430785710503366697>',
+        emoji: '⚫',
         commands: [
             { name: 'lyrics', description: 'Show the lyrics of the currently playing song' },
             { name: 'ping', description: 'Check the bot\'s latency' },
@@ -110,7 +110,7 @@ function createHelpContainer(categoryKey = null) {
             .addSeparatorComponents(new SeparatorBuilder().setSpacing(SeparatorSpacingSize.Small).setDivider(true));
 
         const commandList = category.commands.map(cmd => 
-            `**${cmd.name}**\n<:reply:1430796944258895913> ${cmd.description}`
+            `**${cmd.name}**\n⚫ ${cmd.description}`
         ).join('\n');
         
         container.addTextDisplayComponents(
@@ -120,7 +120,7 @@ function createHelpContainer(categoryKey = null) {
 
     container
         .addMediaGalleryComponents(
-            new MediaGalleryBuilder().addItems([new MediaGalleryItemBuilder().setURL('https://cdn.discordapp.com/attachments/1414256332592254986/1430798331524808724/standard_2.gif')])
+            new MediaGalleryBuilder().addItems([new MediaGalleryItemBuilder().setURL('https://cdn.discordapp.com/banners/1373611245206372444/ca1c2a5f5fc55478fec488f8d647a444.png?size=1024')])
         )
         .addSeparatorComponents(new SeparatorBuilder().setSpacing(SeparatorSpacingSize.Small).setDivider(true));
 
