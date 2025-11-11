@@ -23,7 +23,7 @@ module.exports = {
 
     container.addTextDisplayComponents(
       new TextDisplayBuilder().setContent(
-        `# <:aerox:1430794772091768882> About AeroX Music`
+        `# About Bots Music`
       )
     );
 
@@ -33,7 +33,7 @@ module.exports = {
 
     container.addTextDisplayComponents(
       new TextDisplayBuilder().setContent(
-        `<:white_musicnote:1430654046657843266> **AeroX Music** - A powerful Discord music bot designed to bring high-quality music streaming to your server. Enjoy seamless playback, custom playlists, and a rich set of features to enhance your listening experience.`
+        `**AeroX Music** - A powerful Discord music bot designed to bring high-quality music streaming to your server. Enjoy seamless playback, custom playlists, and a rich set of features to enhance your listening experience.`
       )
     );
 
@@ -43,7 +43,7 @@ module.exports = {
 
     container.addTextDisplayComponents(
       new TextDisplayBuilder().setContent(
-        `**Key Features**\n<:reply:1430796944258895913> High-quality music streaming\n<:reply:1430796944258895913> Custom playlists & favorites\n<:reply:1430796944258895913> Advanced audio filters\n<:reply:1430796944258895913> Queue management\n<:reply:1430796944258895913> Lyrics support\n<:reply:1430796944258895913> Spotify integration`
+        `**Key Features**\n High-quality music streaming\n Custom playlists & favorites\n Advanced audio filters\n Queue management\n Lyrics support\n Spotify integration`
       )
     );
 
@@ -53,7 +53,7 @@ module.exports = {
 
     container.addTextDisplayComponents(
       new TextDisplayBuilder().setContent(
-        `**Built With**\n<:dots:1430789813564473365> Discord.js v14\n<:dots:1430789813564473365> Node.js\n<:dots:1430789813564473365> Lavalink\n<:dots:1430789813564473365> SQLite Database`
+        `**Built With**\n Discord.js v14\n Node.js\n Lavalink\n SQLite Database`
       )
     );
 
@@ -73,7 +73,7 @@ module.exports = {
 
     container.addTextDisplayComponents(
       new TextDisplayBuilder().setContent(
-        `*Developed with ❤️ by AeroX Development*`
+        `*Developed with ❤️ by Bucu Development*`
       )
     );
 
@@ -89,8 +89,8 @@ module.exports = {
           .setStyle(ButtonStyle.Link),
 
         new ButtonBuilder()
-          .setURL(`https://discord.gg/aerox`)
-          .setLabel(`AeroX Development`)
+          .setURL(`https://discord.gg/Zg2XkS5hq9`)
+          .setLabel(`Bucu Development`)
           .setStyle(ButtonStyle.Link)
       )
     );
