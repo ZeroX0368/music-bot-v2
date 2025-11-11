@@ -33,7 +33,7 @@ module.exports = {
 
     container.addTextDisplayComponents(
       new TextDisplayBuilder().setContent(
-        `**AeroX Music** - A powerful Discord music bot designed to bring high-quality music streaming to your server. Enjoy seamless playback, custom playlists, and a rich set of features to enhance your listening experience.`
+        `**Bots Music** - A powerful Discord music bot designed to bring high-quality music streaming to your server. Enjoy seamless playback, custom playlists, and a rich set of features to enhance your listening experience.`
       )
     );
 
@@ -63,7 +63,7 @@ module.exports = {
 
     container.addMediaGalleryComponents(
       new MediaGalleryBuilder().addItems(
-        new MediaGalleryItemBuilder().setURL("https://cdn.discordapp.com/attachments/1414256332592254986/1430798331524808724/standard_2.gif")
+        new MediaGalleryItemBuilder().setURL("https://cdn.discordapp.com/banners/1373611245206372444/ca1c2a5f5fc55478fec488f8d647a444.png?size=1024")
       )
     );
 
